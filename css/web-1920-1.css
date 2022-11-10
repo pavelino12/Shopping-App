@@ -1,0 +1,269 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 7537px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.web-1920-1 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--diesel);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 221px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 37px 610px;
+}
+
+.web-1920-1 .title {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-black);
+  font-size: 100px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 100px;
+  min-height: 135px;
+  width: 607px;
+}
+
+.web-1920-1 .overlap-group4 {
+  height: 1824px;
+  position: relative;
+  width: 1934px;
+}
+
+.web-1920-1 .x128470_00_2x {
+  height: 1173px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1934px;
+}
+
+.web-1920-1 .who-doesnt-like-shopping {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  left: 1165px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 447px;
+  width: 628px;
+}
+
+.web-1920-1 .welcome-crop {
+  height: 1163px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 661px;
+  width: 770px;
+}
+
+.web-1920-1 .overlap-group6 {
+  height: 2973px;
+  margin-left: -38px;
+  margin-top: 164px;
+  position: relative;
+  width: 1992px;
+}
+
+.web-1920-1 .overlap-group5 {
+  height: 1838px;
+  left: 38px;
+  position: absolute;
+  top: 1135px;
+  width: 1920px;
+}
+
+.web-1920-1 .computer-2982270_960_720 {
+  height: 818px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1020px;
+  width: 1920px;
+}
+
+.web-1920-1 .i-phone-12-12-pro-7 {
+  height: 899px;
+  left: 305px;
+  object-fit: cover;
+  position: absolute;
+  top: 232px;
+  width: 830px;
+}
+
+.web-1920-1 .i-phone-12-12-pro-6 {
+  height: 922px;
+  left: 204px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 720px;
+}
+
+.web-1920-1 .i-phone-12-12-pro-5 {
+  height: 975px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 483px;
+}
+
+.web-1920-1 .i-phone-12-12-pro-15 {
+  height: 1055px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.web-1920-1 .for-you {
+  color: var(--diesel);
+  font-family: var(--font-family-segoeui-black);
+  font-size: 100px;
+  font-weight: 900;
+  left: 1096px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 686px;
+  width: 442px;
+}
+
+.web-1920-1 .overlap-group1 {
+  height: 1307px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1958px;
+}
+
+.web-1920-1 .man-2933984_960_720 {
+  height: 959px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1958px;
+}
+
+.web-1920-1 .i-phone-12-12-pro-2 {
+  height: 1045px;
+  left: 1332px;
+  object-fit: cover;
+  position: absolute;
+  top: 261px;
+  width: 548px;
+}
+
+.web-1920-1 .shopping-app-that-blows-your-mind {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  left: 967px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 106px;
+  width: 952px;
+}
+
+.web-1920-1 .we-did-it {
+  left: 580px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 1045px;
+  width: 864px;
+}
+
+.web-1920-1 .the-ultimate-shopping-app {
+  left: 1275px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 1415px;
+  width: 717px;
+}
+
+.web-1920-1 .overlap-group-1 {
+  height: 2116px;
+  margin-top: 2px;
+  position: relative;
+  width: 1978px;
+}
+
+.web-1920-1 .its-here {
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 236px;
+  width: 717px;
+}
+
+.web-1920-1 .and {
+  color: var(--diesel);
+  font-family: var(--font-family-segoeui-black);
+  font-size: 100px;
+  font-weight: 900;
+  left: 491px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 457px;
+  width: 717px;
+}
+
+.web-1920-1 .its-real {
+  left: 215px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 799px;
+  width: 717px;
+}
+
+.web-1920-1 .welcome-crop-1 {
+  height: 1333px;
+  left: 716px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1261px;
+}
+
+.web-1920-1 .blog-a-radical-rethi {
+  height: 962px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1154px;
+  width: 1920px;
+}
+
+.web-1920-1 .paymynt {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-black);
+  font-size: 100px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 100px;
+  min-height: 135px;
+  width: 607px;
+}
